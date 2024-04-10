@@ -1,0 +1,12 @@
+Constructor is used for initilizing the members of a class.
+
+1. The name of the constructor is same as the of the class name.
+2. They did not return any value even void
+3. They called itself when the object of the class is created.
+
+
+Types of Constructor?
+
+1. Default Constructor.
+2. Parametrized Constructor.
+3. Overloaded Constructed.
